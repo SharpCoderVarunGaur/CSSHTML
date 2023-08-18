@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* float and clear */
+/* img{
+    height: 1100px;
+    width:455px;
+    border: 2px solid red;
+    background-repeat: no-repeat;  */
+    /* repeat-x ,repeat-y will make it repeat*/
+    /* background-position:  center center; */
+    /* background-position:  192px 34px; */
+    /* background-position:  center left; */
+    /* background-position: top center; */
+    /* box-sizing: border-box; */
+/* } */
+/* .container{
+ width: 900px;
+ border: 3px solid purple;
+ margin: 33px auto;
+}
+.item{
+    border:3px solid gray;
+    margin: 20px 3px;
+    padding: 12px 3px;
+    background:red;
+} */
+/* #fruits{
+  float: left;
+  width: 48%;
+}
+#computer{
+    float: left;
+    width: 48%;
+}
+#Stationary{
+    float: left;
+    width: 48%;
+} */
